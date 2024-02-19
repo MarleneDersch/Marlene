@@ -45,8 +45,16 @@ Die Veruchspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den zu
 | VP4 | 23 | männlich |Bachelor Maschinenbau|1|
 ### Ergebnisse
 #### Ergebnisse der Beobachtung
+Alle Versuchspersonen wurden während der Erfüllung der Aufgaben beobachtet. Insgesamt ist festzuhalten, dass alle Versuchspersonen alle Teilaufgaben von Test 1 erfüllt haben. Bei Test 2 wurde die Aufgabe während des Tests für alle Versuchspersonen von der Versuchsleitung vereinfacht, da die Versuchspersonen aufgeben wollten. Die neue Aufgabe war dann nur auf dem "Hinweg" slalom zu fahren, zu versuchen die Kegel zu treffen und dann gerade zurück ins Ziel zu fahren. Diese Aufgabe konnten alle Versuchspersonen erfüllen. Zum Erfüllen von Test 1 haben die Versuchspersonen jeweils ca. 15 Minuten gebraucht, für die vereinfachte Version von Test 2 ca. 30 Minuten. 
+
+Es war auffällig, dass alle Versuchspersonen vor allem mit der Kabibrationsfuntkion in beiden Apps Probleme hatten. Ihnen war nicht bewusst, dass sie den Roboter nach dem Anheben erneut kalibrieren müssen und auch die Position und die Funktionsweise dieser Funktion war nicht eindeutig.
+Bei Test 1 hat VP4 Teilaufgabe 1 beim ersten Versuch bewältigt, alle anderen Versuchspersoenen brauchten dafür mehrere Versuche. In der Zeit zum eingenstänidigen Ausprobieren der Funktionen, haben alle Versuchspersonen einen unterschiedlichen Fokus gesetzt. VP1 hat sich mit der präziseren Steuerung mit der Joystick-Funktion beschäftigt, VP2 hat die verschiedenen Sensor-Daten versucht zu interpretieren. VP3 und VP4 spielten intensiv die verschiedenen Spiele durch. Dabei ist aufgefallen, dass es nicht nachvollziehbar erklärt ist, wie die einzelnen Funktionen und Spiele genutzt werden sollen. 
+
+Bei der Edu App haben alle Versuchspersonen ohen Auffprderung noch zusätzliche Elemente in ihren Code eingebaut, wie beispielsweise einen Wechsel der Lichtfarbe des Roboters, Töne oder zusätzliche Strecken. VP4 hat außerdem deutlich schneller als alle anderen Versuchspersonen verstanden, dass es wichtig ist, den Roboter immer wieder an genau die selbe Stelle zum Start des Programms zu platzieren und ihn immer neu zu kalibrieren. Insgesamt war es eher  Trail-and-Error-Versuche, um den Parkur zu bewältigen.
+
 #### Ergebnisse des qualitativen Interviews 
 Da sich die Antworten der einzelnen Versuchspersonen inhaltlich in etwa entsprachen, werden hier die Antworten auf die sechs Fragen an die Versuchspersoen kummuliert wiedergegeben. 
+
 Frage 1: Wie intuitiv findest du die Bedienung der Play App?
 - Positiv: Joystick intutiv bedienbar.
 - Negativ: Steuerung der Spiele nicht klar, Verständnisschwierigkeiten bei der Kalibrierung, Geschwindigkeit des Roboters schwierig zu kontrollieren.
