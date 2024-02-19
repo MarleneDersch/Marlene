@@ -1,24 +1,30 @@
 # Sphero Mini
 ## Allgemeine Infomrationen
 Der Spehro Mini ist ein kugelförmiger Roboter und hat ca. die Größe eines Tischtennisballs. Mit seinen Sensoren kann sein Standort, seine Ausrichtung, Gyroskop, Beschleunigung, Geschwindigkeit und Entfernung erfasst werden. Beim Kauf des Roboters sind zusätzlich noch drei kleine Hüdchen und sechs Kegel enthalten. Bedient wird der Sphero Mini mit den Apps Sphero Play und Sphero Edu. Die Ziele beim Verwenden der Roboters sind Spaß haben beim Spielen und spielerisch Programmieren lernen. 
+
 ![](ball.png)
 ### Sphero Play App
 Ziel dieser App ist es, dass man Spaß beim Spielen mit dem Roboter hat. Der Sphero Mini kann dabei mit einer Art "Joystick"-Symbol auf dem Handy gesteuert werden. Außerdem gibt es verschiedene Spiele, die in zwei Gruppen unterteilt werden können. Mit der einen Gruppe von Spielen, wird der Roboter-Ball auf unterschiedliche Art gesteuert. Er rollt bei einem der Spiele beispielsweise schneller, wenn lautere Geräusche von sich gegeben werden oder bei einem andern Spiel mit dem Handy ein Golfschläger simuliert und der Roboter ist entspechend der Golfball. Bei der zweiten Gruppe von Spielen wird der Roboter zur Steuerung der Spiele in die Hand genommen und das Spiel selbst ist auf dem Handy zu sehen. Dabei wird beispielsweise der Rototer gedreht, um ein Flugzeug zu steuern. 
+
 ![](play.png)
 ### Sphero Edu App
 Ziel der Edu App ist es, den Usern (grundlegende) Programmierkentnisse zu vermittelt. In der App wird mit Block-Bausteinen ein "Programm" geschrieben, das den Roboter dann Anweisungen gibt, wie er sich bewegen soll oder dass er beispielsweise die Farbe ändern soll. In Hintergrund wird hiermit ein JavaSkrip erstellt. Zusätzlich können Nutzende auch selbst ein JavaSkirt erstellen, ohne den Zwischenschritt über die Block-Bausteine zu gehen. Diese App gibt es nicht nuf für Smartphones, sondern auch für PCs. 
+
 ![](edu.png)
 ## Drei Teilbereiche der Robotik
 Für die folgenden Ausfürhungen wurde das Patent des Roboters als Grundlage herangezogen. 
 ### Mechanik
 Der Roboter besteht aus einer runden Außenhülle (302), die das external Surface berührt. In dieser Hülle befindet sich das Driving System (301). Es besteht aus zwei voneinander unabhängigen Rändern (318, 320) mit jeweils einem Motor (322, 324). Die Räder berühren die nur die Innenseite der Außenhülle (304) und haben keinen Kontakt zum extrnal Surface. Eine Feder (312) sorgt dafür, dass die Räder immer Kontakt zur Innenseite der Außenhülle haben. Wichtig ist, dass die Räder und das Ende der Feder (310) möglichst geringen Widerstand haben.
+
 ![](Fig1.png)
 Ist der Robter in Stillstand, ist der Schwerpunkt mittig und so weit unten wie möglich. Um eine Bewegung zu inizern, wird der Schwerpunkt von den beiden Rädern verschoben, wodurch der Roboter zu rollen beginnt. Je größer dabei der Winkel 510 ist, desto schneller rollt der Roboter-Ball. 
+
 ![](Fig5.png)
 ### Elektornik 
 Der Roboter hat zwei Motoren, die jeweils ein Rad ansteuern. Betrieben werden die Motoren von einem wiederaufladbaren Akku. Im Arbeitsspeoicher ... Außerdem hat der Roboter eine Bluethooth-Antenne, mit der er mit dem externen Gerät (Smartphone, PC) kommuiziert. Für die Bestimmung seiner Positon, Geschwindigkeit und Beschleunigung hat der Roboter jeweils drei Gyroskopsensoren, Beschleuingungsmesser und Magentometer.
 ### Programmierung
 Um den Roboter zu steuern, wird der Roboter über Bluetouth mit einem externen Gerät wie einem Smartphone oder einen PC verbunden. Im ersten Schritt kalibriert der Roboter seine relative Position und seine relative Orientierung zum externen Gerät und schickt diese an das externe Gerät (910). Das externe Gerät schickt daraufhin Kontoll-Input an den Roboter, der diesen dann interpretiert und ausführt (920). Nun kann der Roboter mit verschiedenen Programmmen auf unterschiedliche Art und Weisen gesteuert werden. Der Input, den der User über eine App ins externe Gerät eingibt, wird hierfür in vom Roboter interpretierbare Inputs übersetzt (930). Im Anschluss werden die Befehle ausgefüht (940) und der Roboter gibt Feedback an das externe Gerät, dass der Befehl ausgeführt wurde und über seine neue Position (952).
+
 ![](Fig.png)
 ## Usability Study
 ### Methodik
@@ -29,6 +35,7 @@ Mit dem Roboter werden die folgenden beiden Ziele verfolgt:
 Der Grad der Erfüllung dieser beiden Ziele durch eine intuitive Steuerung des Roboters, werden in der folgenden Usabitly Studie überprüft. Die Daten werden dabei durch eine Beobachtung während der Nutzung des Roboters durch die Versuchspersonen unter der Nutzung der Thinking Aloud Methode und durch ein anschließendes qualitatives Interview erhoben. Die Stichprobe (n=4) setzt sich dabei aus Studierenden verschiedener Fachrichtungen mit unterschiedlichen Programmierkenntnissen zusammen. Die Versuchspersonen haben die beiden im Folgenden beschriebenen Aufgaben nacheinander druchgeführt. Es gab keine grundlegende Zeitbegrenzung. 
 #### Parkur für Usabilty Test 
 Für beide Aufgaben wurde ein Parkur genutz. Dazu wurden drei Pylonen mit jeweils 40 cm Abstand auf einer Linie aufgestellt. Nach weitern 40 cm Abstand stehen sechs Kegel. Der Parkur ist wie folgt zu bewältigen: Zuerstst slalom durch um die Pylonen, die Kegel umwerfen und wieder slalom zurück. 
+
 ![](parkur.png)
 #### Test 1: Spielen mit der Sphero Play App
 Dieser Test besteht aus folgenden Unteraufgaben: 
@@ -97,4 +104,7 @@ Bezüglich der Edu App kann festgestellt werden, dass sich alle Versuchspersoen 
 
 Insgesamt erüllt der Roboter mit den dazugehörigen Apps jeweils das gesetzte Ziel, also dass die User Spaß beim Spielen mit der Play App haben und dass die Edu App grundlegende Programmierkenntnisse vermittelt. Allerdings ist v.a. die Kalibrierungsfunktion in beiden Apps sehr versteckt und wenig intuitiv gestaltet. Außerdem wurden bei beiden Apps viele der zur Verfügung stehenden Funktionen von den Versuchspersonen gar nicht entdeckt bzw. wussten die Versuchspersonen nicht, wie sie genutzt werden. Grundsätzlich haben die Versuchspersoenen immer sehr lange gesucht, bis sie die gewünschten Funktionen gefunden haben.  Außerdem würden die meißten Versuchspersoenen den Roboter in ihrer Freizeit wahrscheinlich nicht nutzen. Zukünfig könnte es sinnvoll sein, den Roboter noch mit einer jüngeren Zielgruppe zu testen. 
 
+## Quellen
+Bernstein, I. H., Wilson, A., & Hygh, D. E. (2016). Self-Propellled Device implementing three-dimensional Control (Patent US009395725B2). https://patents.google.com/patent/US9395725B2/en?oq=US+9%2c395%2c725+B2
+Sphero Mini. (2023). Sphero Inc. https://sphero.com/products/sphero-mini
 
