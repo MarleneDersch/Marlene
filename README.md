@@ -35,7 +35,7 @@ Alle Versuchspersonen haben dazu folgende Anweisungen erhalten:
 Die Versuchspersonen sollen mit den Block-Bausteinen einen Code bauen, mit dem der Parkur bestritten wird. Beurteilt wird dabei, wie erfolgreich die Versuchspersonen die Aufgabe bewältigen, wie effizient der Code ist und welche qualitativen Aussagen die Versuchspersonen treffen. 
 Die Veruchspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den zur Verfügung stehenden Block-Bausteinen einen „Code“, damit der Roboter den Parkur abfährt."
 ### Versuchspersonen
-
+Versuchsperson|Alter|Geschlecht|Programmierkenntnisse|Studiengang
 ### Ergebnisse
 #### Ergebnisse der Beobachtung
 #### Ergebnisse des qualitativen Interviews 
