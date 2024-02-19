@@ -14,6 +14,7 @@ Ziel der Edu App ist es, den Usern (grundlegende) Programmierkentnisse zu vermit
 Mit dem Roboter werden die folgenden beiden Ziele verfolgt: 
 - Spaß am Spielen mit der Sphero Play App (Test 1)
 - Einstieg in das Programmieren mit der Spherp Edu App (Test 2).
+
 Der Grad der Erfüllung dieser beiden Ziele durch eine intuitive Steuerung des Roboters, werden in der folgenden Usabitly Studie überprüft. Die Daten werden dabei durch eine Beobachtung während der Nutzung des Roboters durch die Versuchspersonen unter der Nutzung der Thinking Aloud Methode und durch ein anschließendes qualitatives Interview erhoben. Die Stichprobe (n=4) setzt sich dabei aus Studierenden verschiedener Fachrichtungen mit unterschiedlichen Programmierkenntnissen zusammen. Die Versuchspersonen haben die beiden im Folgenden beschriebenen Aufgaben nacheinander druchgeführt. Es gab keine grundlegende Zeitbegrenzung. 
 #### Parkur für Usabilty Test 
 Für beide Aufgaben wurde ein Parkur genutz. Dazu wurden drei Pylonen mit jeweils 40 cm Abstand auf einer Linie aufgestellt. Nach weitern 40 cm Abstand stehen sechs Kegel. Der Parkur ist wie folgt zu bewältigen: Zuerstst slalom durch um die Pylonen, die Kegel umwerfen und wieder slalom zurück. 
@@ -23,6 +24,7 @@ Dieser Test besteht aus folgenden Unteraufgaben:
 - Erster Versuch des Parkur (Teilaufgabe 2)
 - 10 min Zeit, um sich mit Steruerung vertraut zu machen und andere Funktionen/Spiele auszuprobieren
 - Zweiter Versuch des Parkurs (Teilaufgabe 3)
+
 Dabei wurde erhoben, ob die Versuchspersonen in den drei Teilaufgaben erfolgreich waren und die qualitativen Aussagen der Versuchspersoenen wurden erfasst.
 Alle Versuchspersonen haben dazu folgende Anweisungen erhalten:
 - "Starte die App, verbinde den Roboter mit dem Handy und kalibriere ihn."
@@ -34,6 +36,9 @@ Die Versuchspersonen sollen mit den Block-Bausteinen einen Code bauen, mit dem d
 Die Veruchspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den zur Verfügung stehenden Block-Bausteinen einen „Code“, damit der Roboter den Parkur abfährt."
 ### Versuchspersonen
 
-
+### Ergebnisse
+#### Ergebnisse der Beobachtung
+#### Ergebnisse des qualitativen Interviews 
+#### Zusammenfassung und Fazit
 
 
