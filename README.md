@@ -18,6 +18,7 @@ Mit dem Roboter werden die folgenden beiden Ziele verfolgt:
 Der Grad der Erfüllung dieser beiden Ziele durch eine intuitive Steuerung des Roboters, werden in der folgenden Usabitly Studie überprüft. Die Daten werden dabei durch eine Beobachtung während der Nutzung des Roboters durch die Versuchspersonen unter der Nutzung der Thinking Aloud Methode und durch ein anschließendes qualitatives Interview erhoben. Die Stichprobe (n=4) setzt sich dabei aus Studierenden verschiedener Fachrichtungen mit unterschiedlichen Programmierkenntnissen zusammen. Die Versuchspersonen haben die beiden im Folgenden beschriebenen Aufgaben nacheinander druchgeführt. Es gab keine grundlegende Zeitbegrenzung. 
 #### Parkur für Usabilty Test 
 Für beide Aufgaben wurde ein Parkur genutz. Dazu wurden drei Pylonen mit jeweils 40 cm Abstand auf einer Linie aufgestellt. Nach weitern 40 cm Abstand stehen sechs Kegel. Der Parkur ist wie folgt zu bewältigen: Zuerstst slalom durch um die Pylonen, die Kegel umwerfen und wieder slalom zurück. 
+![](parkur.png)
 #### Test 1: Spielen mit der Sphero Play App
 Dieser Test besteht aus folgenden Unteraufgaben: 
 - Öffnen der App, Roboter verbinden und kalibrieren (Teilaufgabe 1)
