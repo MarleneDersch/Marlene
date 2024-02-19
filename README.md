@@ -6,10 +6,15 @@ Ziel dieser App ist es, dass man Spaß beim Spielen mit dem Roboter hat. Der Sph
 ### Sphero Edu App
 Ziel der Edu App ist es, den Usern (grundlegende) Programmierkentnisse zu vermittelt. In der App wird mit Block-Bausteinen ein "Programm" geschrieben, das den Roboter dann Anweisungen gibt, wie er sich bewegen soll oder dass er beispielsweise die Farbe ändern soll. In Hintergrund wird hiermit ein JavaSkrip erstellt. Zusätzlich können Nutzende auch selbst ein JavaSkirt erstellen, ohne den Zwischenschritt über die Block-Bausteine zu gehen. Diese App gibt es nicht nuf für Smartphones, sondern auch für PCs. 
 ## Drei Teilbereiche der Robotik
-Für die folgende 
-### Elektornik 
+Für die folgenden Ausfürhungen wurde das Patent des Roboters als Grundlage herangezogen. 
 ### Mechanik
+Der Roboter besteht aus einer runden Außenhülle (302), die das external Surface berührt. In dieser Hülle befindet sich das Driving System (301). Es besteht aus zwei voneinander unabhängigen Rändern (318, 320) mit jeweils einem Motor (322, 324). Die Räder berühren die nur die Innenseite der Außenhülle (304) und haben keinen Kontakt zum extrnal Surface. Eine Feder (312) sorgt dafür, dass die Räder immer Kontakt zur Innenseite der Außenhülle haben. Wichtig ist, dass die Räder und das Ende der Feder (310) möglichst geringen Widerstand haben.
+Ist der Robter in Stillstand, ist der Schwerpunkt mittig und so weit unten wie möglich. Um eine Bewegung zu inizern, wird der Schwerpunkt von den beiden Rädern verschoben, wodurch der Roboter zu rollen beginnt. Je größer dabei der Winkel 510 ist, desto schneller rollt der Roboter-Ball. 
+### Elektornik 
+Der Roboter hat zwei Motoren, die jeweils ein Rad ansteuern. Betrieben werden die Motoren von einem wiederaufladbaren Akku. Im Arbeitsspeoicher ... Außerdem hat der Roboter eine Bluethooth-Antenne, mit der er mit dem externen Gerät (Smartphone, PC) kommuiziert. Für die Bestimmung seiner Positon, Geschwindigkeit und Beschleunigung hat der Roboter jeweils drei Gyroskopsensoren, Beschleuingungsmesser und Magentometer.
 ### Programmierung
+Um den Roboter zu steuern, wird der Roboter über Bluetouth mit einem externen Gerät wie einem Smartphone oder einen PC verbunden. Im ersten Schritt kalibriert der Roboter seine relative Position und seine relative Orientierung zum externen Gerät und schickt diese an das externe Gerät (910). Das externe Gerät schickt daraufhin Kontoll-Input an den Roboter, der diesen dann interpretiert und ausführt (920). Nun kann der Roboter mit verschiedenen Programmmen auf unterschiedliche Art und Weisen gesteuert werden. Der Input, den der User über eine App ins externe Gerät eingibt, wird hierfür in vom Roboter interpretierbare Inputs übersetzt (930). Im Anschluss werden die Befehle ausgefüht (940) und der Roboter gibt Feedback an das externe Gerät, dass der Befehl ausgeführt wurde und über seine neue Position (952).
+
 ## Usability Study
 ### Methodik
 Mit dem Roboter werden die folgenden beiden Ziele verfolgt: 
