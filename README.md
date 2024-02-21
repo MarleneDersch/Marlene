@@ -8,7 +8,7 @@ Ziel dieser App ist es, dass man Spaß beim Spielen mit dem Roboter hat. Der Sph
 
 ![](Splay.png)
 ### Sphero Edu App
-Ziel der Edu App ist es, den Usern (grundlegende) Programmierkenntnisse zu vermitteln. In der App wird mit Block-Bausteinen ein "Programm" geschrieben, das dem Roboter dann Anweisungen gibt, wie er sich bewegen soll oder dass er beispielsweise die Farbe ändern soll. Im Hintergrund wird hiermit eine JavaSkript-Datei erstellt. Zusätzlich können Nutzende auch selbst ein Programm in JavaSkript erstellen, ohne den Zwischenschritt über die Block-Bausteine zu gehen. Diese App gibt es nicht nur für Smartphones, sondern auch für PCs. 
+Ziel der Edu App ist es, den Usern (grundlegende) Programmierkenntnisse zu vermitteln. In der App wird mit Block-Bausteinen ein "Programm" geschrieben, das dem Roboter dann Anweisungen gibt, wie er sich bewegen soll oder dass er beispielsweise die Farbe ändern soll. Im Hintergrund wird hiermit eine JavaScript-Datei erstellt. Zusätzlich können Nutzende auch selbst ein Programm in JavaScript erstellen, ohne den Zwischenschritt über die Block-Bausteine zu gehen. Diese App gibt es nicht nur für Smartphones, sondern auch für PCs. 
 
 ![](Sedu.png)
 ## Drei Teilbereiche der Robotik
