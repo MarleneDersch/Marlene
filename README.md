@@ -58,7 +58,7 @@ Alle Versuchspersonen haben dazu folgende Anweisungen erhalten:
 - "Wiederhole den Parkour."
 #### Test 2: Einstieg in das Programmieren mit der Sphero Edu App
 Die Versuchspersonen sollen mit den Block-Bausteinen einen Code bauen, mit dem der Parkour bestritten wird. Beurteilt wird dabei, wie erfolgreich die Versuchspersonen die Aufgabe bewältigen, wie effizient der Code ist und welche qualitativen Aussagen die Versuchspersonen treffen. 
-Die Verkehrspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den zur Verfügung stehenden Block-Bausteinen einen 'Code', damit der Roboter den Parkour abfährt."
+Die Versuchspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den zur Verfügung stehenden Block-Bausteinen einen 'Code', damit der Roboter den Parkour abfährt."
 ### Versuchspersonen
 | Versuchsperson | Alter |Geschlecht | Studiengang | Programmierkenntnisse* |
 | --- | --- | --- |---|---|
@@ -91,7 +91,7 @@ Frage 2: Wie intuitiv findest du die Bedienung der Edu App?
 
 Frage 3: Würdest du den Roboter weiterverwenden, wenn du ihn geschenkt bekommen würdest? Falls ja, wofür? Falls nein, warum nicht?
 - Alle Versuchspersonen gaben an, dass sie nicht wissen, wofür sie den Roboter im Alltag verwenden würden und gaben daher an, dass sie ihn wahrscheinlich nicht verwenden würden.
-- Von einer Versuchsperson wurde auch erwähnt, dass eine Drohne zum Beispiel spannender sei oder von einer anderen, dass die Distanz zum Steuerungsgerät und die Geschwindigkeit des Rogers nicht ausreichen, um ihn weiterzuverwenden. 
+- Von einer Versuchsperson wurde auch erwähnt, dass eine Drohne zum Beispiel spannender sei oder von einer anderen, dass die Distanz zum Steuerungsgerät und die Geschwindigkeit des Roboters nicht ausreichen, um ihn weiterzuverwenden. 
 
 Frage 4: Hattest du Spaß beim Verwenden des Roboters? 
 - Alle vier Versuchspersonen hatten Spaß.
