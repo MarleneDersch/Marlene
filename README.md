@@ -54,12 +54,13 @@ Alle Versuchspersonen haben dazu folgende Anweisungen erhalten:
 Die Versuchspersonen sollen mit den Block-Bausteinen einen Code bauen, mit dem der Parkour bestritten wird. Beurteilt wird dabei, wie erfolgreich die Versuchspersonen die Aufgabe bewältigen, wie effizient der Code ist und welche qualitativen Aussagen die Versuchspersonen treffen. 
 Die Verkehrspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den zur Verfügung stehenden Block-Bausteinen einen 'Code', damit der Roboter den Parkour abfährt."
 ### Versuchspersonen
-| Versuchsperson | Alter |Geschlecht | Studiengang | Programmierkenntnisse |
+| Versuchsperson | Alter |Geschlecht | Studiengang | Programmierkenntnisse* |
 | --- | --- | --- |---|---|
 | VP1 | 25 | männlich |Master Angewandte Informatik |5|
 | VP2 | 25 | männlich |Master Chemie|4|
 | VP3 | 22 | weiblich |Bachelor Tourismusmanagement|0|
 | VP4 | 23 | männlich |Bachelor Maschinenbau|1|
+*Bewertet auf einer Skala von 0 (keine Kenntnisse) bis 5 (sehr gute Kenntnisse)
 ### Ergebnisse
 #### Ergebnisse der Beobachtung
 Alle Versuchspersonen wurden während der Erfüllung der Aufgaben beobachtet. Insgesamt ist festzuhalten, dass alle Versuchspersonen alle Teilaufgaben von Test 1 erfüllt haben. Bei Test 2 wurde die Aufgabe während des Tests für alle Versuchspersonen von der Versuchsleitung vereinfacht, da die Versuchspersonen aufgeben wollten. Die neue Aufgabe war dann nur auf dem "Hinweg" Slalom zu fahren, zu versuchen, die Kegel zu treffen und dann gerade zurück ins Ziel zu fahren. Diese Aufgabe konnten alle Versuchspersonen erfüllen. Zum Erfüllen von Test 1 haben die Versuchspersonen jeweils ca. 15 Minuten gebraucht, für die vereinfachte Version von Test 2 ca. 30 Minuten. 
