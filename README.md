@@ -62,6 +62,7 @@ Die Verkehrspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den z
 | VP4 | 23 | männlich |Bachelor Maschinenbau|1|
 
 *Bewertet auf einer Skala von 0 (keine Kenntnisse) bis 5 (sehr gute Kenntnisse)
+
 ### Ergebnisse
 #### Ergebnisse der Beobachtung
 Alle Versuchspersonen wurden während der Erfüllung der Aufgaben beobachtet. Insgesamt ist festzuhalten, dass alle Versuchspersonen alle Teilaufgaben von Test 1 erfüllt haben. Bei Test 2 wurde die Aufgabe während des Tests für alle Versuchspersonen von der Versuchsleitung vereinfacht, da die Versuchspersonen aufgeben wollten. Die neue Aufgabe war dann nur auf dem "Hinweg" Slalom zu fahren, zu versuchen, die Kegel zu treffen und dann gerade zurück ins Ziel zu fahren. Diese Aufgabe konnten alle Versuchspersonen erfüllen. Zum Erfüllen von Test 1 haben die Versuchspersonen jeweils ca. 15 Minuten gebraucht, für die vereinfachte Version von Test 2 ca. 30 Minuten. 
