@@ -106,5 +106,6 @@ Insgesamt erfüllt der Roboter mit den dazugehörigen Apps jeweils das gesetzte 
 
 ## Quellen
 Bernstein, I. H., Wilson, A., & Hygh, D. E. (2016). Self-Propellled Device implementing three-dimensional Control (Patent US009395725B2). https://patents.google.com/patent/US9395725B2/en?oq=US+9%2c395%2c725+B2
+
 Sphero Mini. (2023). Sphero Inc. https://sphero.com/products/sphero-mini
 
