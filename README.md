@@ -61,7 +61,7 @@ Die Verkehrspersonen haben hierfür folgende Anweisung bekommen: "Baue mit den z
 | VP3 | 22 | weiblich |Bachelor Tourismusmanagement|0|
 | VP4 | 23 | männlich |Bachelor Maschinenbau|1|
 
-*Bewertet auf einer Skala von 0 (keine Kenntnisse) bis 5 (sehr gute Kenntnisse)
+_*Bewertet auf einer Skala von 0 (keine Kenntnisse) bis 5 (sehr gute Kenntnisse)_
 
 ### Ergebnisse
 #### Ergebnisse der Beobachtung
