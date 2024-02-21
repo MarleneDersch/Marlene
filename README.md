@@ -6,11 +6,11 @@ Der Sphero Mini ist ein kugelförmiger Roboter und hat ca. die Größe eines Tis
 ### Sphero Play App
 Ziel dieser App ist es, dass man Spaß beim Spielen mit dem Roboter hat. Der Sphero Mini kann dabei mit einer Art "Joystick"-Symbol auf dem Handy gesteuert werden. Außerdem gibt es verschiedene Spiele, die in zwei Gruppen unterteilt werden können. Mit der einen Gruppe von Spielen wird der Roboter-Ball auf unterschiedliche Arten gesteuert. Er rollt bei einem der Spiele beispielsweise schneller, wenn lautere Geräusche von sich gegeben werden oder bei einem anderen Spiel mit dem Handy ein Golfschläger simuliert, der Roboter ist entsprechend der Golfball. Bei der zweiten Gruppe von Spielen wird der Roboter zur Steuerung der Spiele in die Hand genommen und das Spiel selbst ist auf dem Handy zu sehen. Dabei wird beispielsweise der Roboter gedreht, um ein Flugzeug zu steuern. 
 
-![](play.png)
+![](pla.png)
 ### Sphero Edu App
 Ziel der Edu App ist es, den Usern (grundlegende) Programmierkenntnisse zu vermitteln. In der App wird mit Block-Bausteinen ein "Programm" geschrieben, das dem Roboter dann Anweisungen gibt, wie er sich bewegen soll oder dass er beispielsweise die Farbe ändern soll. Im Hintergrund wird hiermit eine JavaSkript-Datei erstellt. Zusätzlich können Nutzende auch selbst ein Programm in JavaSkript erstellen, ohne den Zwischenschritt über die Block-Bausteine zu gehen. Diese App gibt es nicht nur für Smartphones, sondern auch für PCs. 
 
-![](edu.png)
+![](ed.png)
 ## Drei Teilbereiche der Robotik
 Für die folgenden Ausführungen wurde das Patent US009395725B2 des Roboters als Grundlage herangezogen (Bernstein et al., 2016). 
 ### Mechanik
